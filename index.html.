@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Abhishek Pandey - Hacker Style Portfolio | Web Developer, Coder, and Tech Enthusiast">
+    <meta name="keywords" content="Abhishek Pandey, Hacker Portfolio, Coding, Web Developer, Programmer">
+    <meta name="author" content="Abhishek Pandey">
+    <title>Abhishek Pandey | Hacker Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="matrix"></div>
+    <div class="container">
+        <h1 class="title">Abhishek Pandey</h1>
+        <p class="subtitle">Web Developer | Ethical Hacker | Coder</p>
+
+        <section>
+            <h2>About Me</h2>
+            <p>Hello! I'm Abhishek Pandey, a passionate coder who loves creating stylish, functional websites and experimenting with hacking tools for learning purposes.</p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>Python, Ethical Hacking Basics</li>
+                <li>Git & GitHub</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <ul>
+                <li>Personal Portfolio Website</li>
+                <li>Hacker-Style Terminal App</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contact Me</h2>
+            <p>Email: <a href="mailto:abhishek@example.com">abhishek@example.com</a></p>
+            <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
